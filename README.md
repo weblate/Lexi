@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The repository is archived due to lack of interest and motivation to develop this project. I currently focusing on developing and improving [Chronograph](https://github.com/Dzheremi2/Chronograph) app. May some day I will return to Lexi, but not for now. If somebody wants to continue Lexi development in my absence, please ask for a Collaborator in Issues of [my profile repo](https://github.com/Dzheremi2/Dzheremi2)
+
 <div align="center">
 
 <img src="data/icons/hicolor/scalable/apps/io.github.dzheremi2.lexi.svg" width="128" height="128">
